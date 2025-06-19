@@ -3,3 +3,4 @@ venv310/
 *.dylib
 __pycache__/
 
+venv310/
