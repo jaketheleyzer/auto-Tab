@@ -1,0 +1,5 @@
+venv310/
+*.h5
+*.dylib
+__pycache__/
+
